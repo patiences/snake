@@ -1,3 +1,5 @@
+;; Please run the code first, (main START) to play 
+
 (require 2htdp/image)
 (require 2htdp/universe)
 ;; =================
